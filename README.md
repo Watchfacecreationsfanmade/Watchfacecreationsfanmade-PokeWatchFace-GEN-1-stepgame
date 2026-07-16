@@ -1,9 +1,9 @@
 # Watchfacecreationsfanmade-PokeWatchFace-GEN-1-stepgame
 Pokémon FireRed/LeafGreen watchface for Wear OS. Your Pokémon party changes daily, and you level up your Pokémon by taking steps. Every 200 steps is 1 level. 50 Generation 1 Pokémon, including their levels and evolutions, are in the watchface as your possible party. Every night at 00:00 your story resets, and you will start over with a new team. As your time and level progress, your story through Kanto will too. It brings you back to the Game Boy; all the gym leaders, rival battles, and the Elite Four are in the story.
-- Shiny's are included as well. a few times a year one of your pokemon will be shiny the whole day
-- Legendary and fan made post story content after 12,5k steps
+- Shinies are included as well. A few times a year, one of your Pokémon will be shiny for the whole day.
+- Legendary Pokémon and fan-made post-story content unlock after 12.5k steps.
 
-Pokemon sprites and watchface without giving up of functions. A glance at the watchface will give you the following information:
+Pokémon sprites and pokemon battlefield with realistic elements, without giving up watch face functions. A glance at the watch face will give you the following information:
 
 <img width="462" height="1000" alt="image" src="https://github.com/user-attachments/assets/3780e3c7-c4d3-42b4-b815-a8bc6309a06b" />
 
