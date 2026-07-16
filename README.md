@@ -27,6 +27,12 @@ I have also designed post-game content for after you beat the Elite Four. You wi
 I have put the download link for the APK file on this page. I hope you will enjoy it as much as I enjoyed making it!
 Please feel free to give feedback on this project—I would really love to hear about your experience with the watch face in general! Leave a message in the Discussions tab!
 
+
+## DOWNLOAD LINK:
+com.watchfacestudio.RPGwalkthrough.apk
+
+
+
 Because I made this in Samsung's Watch Face Studio, you will need to sideload it onto your watch. Here is a quick guide made by AI:
 
 ## 📥 How to Sideload (Quick Guide)
