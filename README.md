@@ -1,2 +1,2 @@
 # Watchfacecreationsfanmade-PokeWatchFace-GEN-1-stepgame
-Pokemon Firered/Leafgreen watchface for android wear. 
+Pokemon Firered/Leafgreen watchface for android wear. Poke Party changes daily and you'll lvl your pokemon by taking steps. Every 200 steps is 1 lvl. All the pokemon their evolutions lvl are in the watchface. Every night at 00:00 your story resets and you will start over with a new team. As time and lvl progresses your story through kanto will too. I brings you back to the gameboy, all the gymleaders, rival battles en elite four are in the story. 
