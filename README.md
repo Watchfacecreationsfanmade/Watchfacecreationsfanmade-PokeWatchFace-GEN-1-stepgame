@@ -14,5 +14,14 @@ Pokémon sprites and pokemon battlefield with realistic elements, without giving
 - Date is shown as your Pokémon's HP numbers (formatted as MM/DD).
 - Your Pokémon's HP bar slowly decreases over time and can only be restored by taking steps. This encourages you to stay active throughout the day! If your activity level is too low for that time of day, you will "faint" and end up in the Pokémon Center with Nurse Joy!
 - Real-time temperature changes your Pokémon's status condition (e.g., "BRN" (Burn) appears if the temperature rises above 23°C).
-- The battle background changes dynamically based on your local, real-time weather (supporting rain, sunny days, and more).
+- The battle weather changes dynamically based on your local, real-time weather (supporting rain, sunny days, and more).
+- Background of the battlefield changes with the story (e.g. water battlefield in Misty Fight) so the watchface wont bore out as fast.
+
+The Always-On Display (AOD) shows your progression for the day. It does this by showing the gym badges you have earned that day. Roughly 1,000 steps per badge means 8 badges earned equals 8,000 steps, perfectly aligning with your daily activity. Going for a good walk that day will allow you to reach the Elite Four. After earning all eight badges and beating the Elite Four, the AOD will showcase your daily team, just like in the Hall of Fame!
+
+
+<img width="462" height="1000" alt="image" src="https://github.com/user-attachments/assets/3f2b8444-3002-4ce5-b1b6-7a59772ab832" />
+
+I have also designed post-game content for after you beat the Elite Four. You will battle the Legendary Pokémon of Kanto, which will appear as small sprites on your AOD once defeated. After the Legendaries, I have added some logical, fan-made post-story content. I don't want to give everything away—you will have to go for a good walk to see it for yourself!
+
 
