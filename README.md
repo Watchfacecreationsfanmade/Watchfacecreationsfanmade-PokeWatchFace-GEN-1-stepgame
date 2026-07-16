@@ -24,4 +24,14 @@ The Always-On Display (AOD) shows your progression for the day. It does this by 
 
 I have also designed post-game content for after you beat the Elite Four. You will battle the Legendary Pokémon of Kanto, which will appear as small sprites on your AOD once defeated. After the Legendaries, I have added some logical, fan-made post-story content. I don't want to give everything away—you will have to go for a good walk to see it for yourself!
 
+I have put the download link for the APK file on this page. I hope you will enjoy it as much as I enjoyed making it!
+Please feel free to give feedback on this project—I would really love to hear about your experience with the watch face in general! Leave a message in the Discussions tab!
 
+Because I made this in Samsung's Watch Face Studio, you will need to sideload it onto your watch. Here is a quick guide made by AI:
+
+## 📥 How to Sideload (Quick Guide)
+
+1. **On your watch:** Go to *Settings > Developer options* and enable **ADB debugging** and **Wireless debugging**. Note the IP address and port shown there (e.g., `192.168.1.15:5555`).
+2. **On your phone:** Install an app like **Wear Installer 2** (which includes an even better guide with an instructional video!).
+3. **Connect:** Open the app on your phone, enter your watch's IP address, and accept the debugging prompt on your watch screen.
+4. **Install:** Select the downloaded `.apk` file in the app and install it onto your watch.
