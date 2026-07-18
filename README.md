@@ -39,9 +39,15 @@ Because I made this in Samsung's Watch Face Studio, you will need to sideload it
 
 Step 1: Connect your phone and your watch to the same secure and trusted Wi-Fi network 
 
-Step 2: Depending on the brand of your watch, the steps may vary slightly. If these steps do not match your specific watch type exactly, look up instructions for your model on Google.
+Step 2: Depending on the brand of your watch, the steps may vary slightly. 
+
+If these steps do not match your specific watch type exactly, look up instructions for your model on Google.
+
 Put your watch in Developer options.
+
 Samsung: Go to the watch’s Settings > About watch > Software information and tap 7 times on 'Software version'. The watch is now in Developer options. Go back to Settings, and Developer options should be the lowest option.
+
+
 A. Enable ADB debugging.
 B. Enable Debug over Wi-Fi.
 
