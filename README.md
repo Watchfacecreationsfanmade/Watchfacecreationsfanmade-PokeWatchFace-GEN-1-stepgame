@@ -1,28 +1,42 @@
 # Pokemon Watchface Daily FireRed/LeafGreen simulation
-Pokémon FireRed/LeafGreen watchface for Wear OS. Your Pokémon party changes daily, and you level up your Pokémon by taking steps. Every 200 steps is 1 level. 50 Generation 1 Pokémon, including their levels and evolutions, are in the watchface as your possible party. Every night at 00:00 your story resets, and you will start over with a new team. As your time and level progress, your story through Kanto will too. It brings you back to the Game Boy; all the gym leaders, rival battles, and the Elite Four are in the story.
-- Shinies are included as well. A few times a year, one of your Pokémon will be shiny for the whole day.
-- Legendary Pokémon and fan-made post-story content unlock after 12.5k steps.
+## Welcome!
 
-Pokémon sprites and pokemon battlefield with realistic elements, without giving up watch face functions. A glance at the watch face will give you the following information:
+I wanted to create a Pokémon watch face that takes you straight back to the Game Boy era of Pokémon FireRed and LeafGreen. My goal was to bring that exact same nostalgic feeling to your wrist, while simultaneously encouraging you to hit your daily step goals. I designed it to be highly dynamic so you won't easily get bored of it, all without sacrificing any essential smartwatch functionalities. I truly tried to build this to be your ultimate, everyday watch face.
 
-<img width="462" height="1000" alt="image" src="https://github.com/user-attachments/assets/3780e3c7-c4d3-42b4-b815-a8bc6309a06b" />
+The watch face simulates a complete journey through Kanto every single day, provided you take enough steps. Your daily steps are directly linked to the level of your Pokémon, meaning you literally have to walk to train your team. The higher their level, the further you progress through the storyline. You will encounter all the Gym Leaders, face wild Pokémon in the exact order of the game's progression, and ultimately challenge and defeat the Elite Four.
 
-- Time in digital
-- Battery status is represented by the enemy Pokémon's HP bar.
-- Your Pokémon's level is determined by your step counter ($200\text{ steps} = 1\text{ level}$, e.g., Level 16 = 3,000 to 3,200 steps). The experience bar shows your progress between levels (e.g., at 3,100 steps, the bar is half full toward Level 16).
-- Heart rate 
-- Date is shown as your Pokémon's HP numbers (formatted as MM/DD).
-- Your Pokémon's HP bar slowly decreases over time and can only be restored by taking steps. This encourages you to stay active throughout the day! If your activity level is too low for that time of day, you will "faint" and end up in the Pokémon Center with Nurse Joy!
-- Real-time temperature changes your Pokémon's status condition (e.g., "BRN" (Burn) appears if the temperature rises above 23°C).
-- The battle weather changes dynamically based on your local, real-time weather (supporting rain, sunny days, and more).
-- Background of the battlefield changes with the story (e.g. water battlefield in Misty Fight) so the watchface wont bore out as fast.
+## The WatcFace
+I wanted to bring back the nostalgic feeling of FireRed without making major textual changes. With other watch faces, I personally find it distracting when elements like 'Bag' or 'Pokémon' are changed into the time or another functional metric. That pulls me right out of the experience. That is why I chose to leave these labels exactly as they are, keeping the original experience as intact as possible. I tried to integrate the smartwatch functionalities as intuitively as possible, allowing you to get a feel for the watch face within a day and quickly glance at all your information without losing the authentic LeafGreen experience.
 
-The Always-On Display (AOD) shows your progression for the day. It does this by showing the gym badges you have earned that day. Roughly 1,000 steps per badge means 8 badges earned equals 8,000 steps, perfectly aligning with your daily activity. Going for a good walk that day will allow you to reach the Elite Four. After earning all eight badges and beating the Elite Four, the AOD will showcase your daily team, just like in the Hall of Fame!
+<img width="1286" height="380" alt="image" src="https://github.com/user-attachments/assets/2e1b8c83-f931-4102-8b8c-6568ce1ff629" />
 
+## Party system
+Along the way, you will expand your team with new Pokémon—just like in the actual game—until you have a full party of 6 around level 30, which is exactly how most people love to play. Your team changes every single day with over thousands of different possible combinations, ensuring you will never experience a day with the exact same team.
+
+Once a Pokémon joins your party, it stays with you for the rest of that day. By taking steps, you train your entire team simultaneously, and they will evolve at the exact same levels as they do in the original game. (For Pokémon that normally require an Evolution Stone, they will evolve at an intuitive, dynamically generated level that varies with each run).*
+
+## AOD / tracker
+The Always-On Display (AOD) shows your progression for the day. It does this by showing the gym badges you have earned that day. Roughly 1,250 steps per badge means 8 badges earned equals 10.000 steps, perfectly aligning with your daily activity.  After earning all eight badges you can go for championshipsrounds and start to beat the Elite Four.
+
+If succesfully beaten (reachting 12,500 steps) Your AOD will change: 
+
+the AOD will showcase your daily team (it changes to the team you have that day, the team you have beaten E4 with!), in the Hall of Fame!:
 
 <img width="462" height="1000" alt="image" src="https://github.com/user-attachments/assets/3f2b8444-3002-4ce5-b1b6-7a59772ab832" />
 
+## start of the journey
+At the start of the journey, you don't have a Pokémon yet. Because I wanted to replicate the experience of a full journey from the original storyline, you won't have a Pokémon until you reach level 5 (1,000 steps). I have carefully woven different story frames into these first 1,000 steps to match the narrative. Besides authentically mimicking the game's intro, I also wanted this to serve as an incentive to walk those first 1,000 steps as quickly as possible so you can pick up your starter Pokémon from Professor Oak.
+
+<img width="237" height="512" alt="image" src="https://github.com/user-attachments/assets/b1142989-a9f5-4f60-be8e-fb7195549494" />
+<img width="237" height="512" alt="image" src="https://github.com/user-attachments/assets/65b02270-7538-480e-80af-4c53e883fb2c" />
+
+
+Once you hit that milestone, the watch face transitions into the familiar battle screen layout.
+
+## Postgame
 I have also designed post-game content for after you beat the Elite Four. You will battle the Legendary Pokémon of Kanto, which will appear as small sprites on your AOD once defeated. After the Legendaries, I have added some logical, fan-made post-story content. I don't want to give everything away—you will have to go for a good walk to see it for yourself!
+
+
 
 I have put the download link for the APK file on this page. I hope you will enjoy it as much as I enjoyed making it!
 Please feel free to give feedback on this project—I would really love to hear about your experience with the watch face in general! Leave a message in the Discussions tab!
