@@ -33,6 +33,12 @@ At the start of the journey, you don't have a Pokémon yet. Because I wanted to 
 
 Once you hit that milestone, the watch face transitions into the familiar battle screen layout.
 
+## Nurse Joy
+Make sure to stay active throughout the entire day. Your Pokémon's HP bar gradually decreases as time passes if you haven’t taken enough steps for that time of day. With this mechanic, I want to encourage the wearer to start moving early in the morning, rather than waiting until the end of the day to make up for it with a single walk. While a late evening walk is still a great habit, staying active consistently across the whole day is even better. If your HP bar drops to zero and your Pokémon faint, you will have to visit the Pokémon Center. They will be fully healed and ready for battle again as soon as you catch up on your daily steps!
+
+  <img width="450" height="450" alt="versie 3_20260718_11375272" src="https://github.com/user-attachments/assets/15d15aaa-0565-484e-af18-47ab990d2537" />
+
+
 ## Postgame
 I have also designed post-game content for after you beat the Elite Four. You will battle the Legendary Pokémon of Kanto, which will appear as small sprites on your AOD once defeated. After the Legendaries, I have added some logical, fan-made post-story content. I don't want to give everything away—you will have to go for a good walk to see it for yourself!
 
