@@ -48,8 +48,8 @@ Put your watch in Developer options.
 Samsung: Go to the watch’s Settings > About watch > Software information and tap 7 times on 'Software version'. The watch is now in Developer options. Go back to Settings, and Developer options should be the lowest option.
 
 
-A. Enable ADB debugging.
-B. Enable Debug over Wi-Fi.
+- A. Enable ADB debugging.
+- B. Enable Debug over Wi-Fi.
 
 Step 3: Your watch should automaticly connect to your WII network. That could take a few minutes. 
 if not connected to wifi yet:
