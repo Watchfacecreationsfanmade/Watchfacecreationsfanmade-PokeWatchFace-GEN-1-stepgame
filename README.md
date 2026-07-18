@@ -38,6 +38,16 @@ Make sure to stay active throughout the entire day. Your Pokémon's HP bar gradu
 
   <img width="450" height="450" alt="versie 3_20260718_11375272" src="https://github.com/user-attachments/assets/15d15aaa-0565-484e-af18-47ab990d2537" />
 
+## Shiny
+What is a Pokémon experience without Shinies? They are an essential part of the journey. I felt the exact same way, so I added Shinies to the engine! On roughly 20 days out of the year, one of your Pokémon can be a Shiny for the entire day, complete with a Shiny sparkle animation. This keeps the watch face exciting and fresh to wear every day. And yes—the Shiny sprite is fully visible in the Hall of Fame if you manage to beat the Elite Four with it!
+<details>
+  <summary>🎬 Click to view the Overworld & Battle Transition for a shiny pokemon! (GIF)</summary>
+  <br>
+  <p align="center">
+    <img width="400" height="711" alt="shiny zichtbaar" src="https://github.com/user-attachments/assets/5d2e5e09-9f8c-44c5-87a9-691caec736a5" />
+  </p>
+</details>
+
 
 ## Postgame
 I have also designed post-game content for after you beat the Elite Four. You will battle the Legendary Pokémon of Kanto, which will appear as small sprites on your AOD once defeated. After the Legendaries, I have added some logical, fan-made post-story content. I don't want to give everything away—you will have to go for a good walk to see it for yourself!
