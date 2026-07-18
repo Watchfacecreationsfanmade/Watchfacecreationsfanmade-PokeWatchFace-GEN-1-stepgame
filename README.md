@@ -45,9 +45,9 @@ If these steps do not match your specific watch type exactly, look up instructio
 
 Put your watch in Developer options.
 
-Samsung: Go to the watch’s Settings > About watch > Software information and tap 7 times on 'Software version'. The watch is now in Developer options. Go back to Settings, and Developer options should be the lowest option.
+Samsung: Go to the watch’s Settings > About watch > Software information and tap 7 times on 'Software version'. The watch is now in Developer options. 
 
-
+- Go back to Settings, and Developer options should be the lowest option.
 - A. Enable ADB debugging.
 - B. Enable Debug over Wi-Fi.
 
@@ -89,7 +89,11 @@ Pairing Code: 482091
 
 Your watch should now be successfully paired with your phone.
 
-Step 7: Tap the plug icon in the top right corner once again, but this do not tap tap pair but fill this screen the IP adress (should be unchanged) and Port number..
+Step 7: A second box should pop up with filled in IP Adress and portnumber. simply press 'connect'
+
+IF that box doens't show automaticly follow these steps:
+
+Tap the plug icon in the top right corner once again, but this do not tap tap pair but fill this screen the IP adress (should be unchanged) and Port number..
 
 <img width="462" height="1000" alt="image" src="https://github.com/user-attachments/assets/204e336e-9505-4c9a-8bbe-7b34c2a797b5" />
 
@@ -97,14 +101,16 @@ On your watch's Wireless debugging screen, an IP address and Port should be visi
 
 Your watch should no be succesfully connected to you phone!
 
-step 8:
-Tap the plus sign (+) at the top of the Bugjaeger app, as circled in the photo. 
+step 8: Tap the plus sign (+) at the top of the Bugjaeger app, as circled in the photo. 
 
 <img width="238" height="496" alt="image" src="https://github.com/user-attachments/assets/9e5c3b41-f5e9-4cb6-8805-adeeac683dd0" />
 
 Tap Select APK file and choose the APK file downloaded from this GitHub link. The watch face will now be installed on your watch.
 
 Once this process is successfully completed, the watch face will be on your watch!
+
+step 9: close developer mode on your watch. it drains energy. Go to settings, developer mode . turn it off. (wifi will turn off aswell)
+
 
 For me, it shows up directly in the list of watch faces. However, it is possible that you will need to go to your watch faces, select "Add extra," and you will find it listed there.
 
