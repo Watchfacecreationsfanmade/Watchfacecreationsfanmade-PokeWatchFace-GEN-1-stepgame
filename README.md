@@ -47,7 +47,13 @@ What is a Pokémon experience without Shinies? They are an essential part of the
     <img width="400" height="711" alt="shiny zichtbaar" src="https://github.com/user-attachments/assets/5d2e5e09-9f8c-44c5-87a9-691caec736a5" />
   </p>
 </details>
-
+<details>
+  <summary>🎬 Click to view the AOD Hall of Fame with a shiny pokemon on your team! (GIF)</summary>
+  <br>
+  <p align="center">
+    <img width="450" height="450" alt="versie 3_20260718_11572562" src="https://github.com/user-attachments/assets/2cd1866c-7347-46c2-9b10-33130c08358a" />
+  </p>
+</details>
 
 ## Postgame
 I have also designed post-game content for after you beat the Elite Four. You will battle the Legendary Pokémon of Kanto, which will appear as small sprites on your AOD once defeated. After the Legendaries, I have added some logical, fan-made post-story content. I don't want to give everything away—you will have to go for a good walk to see it for yourself!
