@@ -51,16 +51,28 @@ For Samsung: Go to Settings > Connections > Wi-Fi and enable it and connect with
 
 Step 4: Download the watchface as APK file from this GiTHub and download the app Bugjaeger on your phone.
 
-Step 5: On your watch, go to Developer options > Wireless debugging and select Pair new device (Koppelen aan apparaat). You will see a screen showing a Pairing Code, an IP address, and a Port number.
-<img width="473" height="1024" alt="image" src="https://github.com/user-attachments/assets/9d9e4a4d-2d36-4bbc-95d0-58bab487262f" />
-On my pixel watch it looks like this
+Step 5: On your watch, go to Developer options > Wireless debugging and select Pair new device. You will see a screen showing a Pairing Code, an IP address, and a Port number.
+On my pixel watch it looks like this:
 
-Step 6: In the Bugjaeger app on your phone,  tap the plug icon with the plus sign (+) in the top right corner and select Pair. Fill in the fields exactly as shown on your watch screen:
+<img width="473" height="1024" alt="image" src="https://github.com/user-attachments/assets/9d9e4a4d-2d36-4bbc-95d0-58bab487262f" />
+
+
+
+
+Step 6: In the Bugjaeger app on your phone,  tap the plug icon with the plus sign (+) in the top right corner and select Pair.
+
+
 <img width="235" height="488" alt="image" src="https://github.com/user-attachments/assets/f27cfff9-26d9-42e8-a0a6-d14c32434f89" />
+
+and select Pair:
+
+<img width="459" height="713" alt="image" src="https://github.com/user-attachments/assets/e143afea-63e3-49b3-966d-82532bdd690e" />
+
+Fill in the fields exactly as shown on your watch screen:
 
 <img width="459" height="838" alt="image" src="https://github.com/user-attachments/assets/e880ebb8-2109-4e37-a9e9-43fe4410a920" />
 
-Step 8: Next, tap PAIR and enter the details from your smartwatch.
+Step 8: Next enter the details from your smartwatch.
 Using the example photos, that would be:
 
 IP address: 192.168.1.45
@@ -72,11 +84,18 @@ Pairing Code: 482091
 Your watch should now be successfully paired with your phone.
 
 Step 7: Tap the plug icon in the top right corner once again, but this do not tap tap pair but fill this screen the IP adress (should be unchanged) and Port number..
+
+<img width="462" height="1000" alt="image" src="https://github.com/user-attachments/assets/204e336e-9505-4c9a-8bbe-7b34c2a797b5" />
+
 On your watch's Wireless debugging screen, an IP address and Port should be visible. Enter these numbers into the connect prompt. Do not go back to the "Pair new device" screen; if you use the pairing codes page for this step, it will not connect.
+
+Your watch should no be succesfully connected to you phone!
 
 step 8:
 Tap the plus sign (+) at the top of the Bugjaeger app, as circled in the photo. 
+
 <img width="238" height="496" alt="image" src="https://github.com/user-attachments/assets/9e5c3b41-f5e9-4cb6-8805-adeeac683dd0" />
+
 Tap Select APK file and choose the APK file downloaded from this GitHub link. The watch face will now be installed on your watch.
 
 Once this process is successfully completed, the watch face will be on your watch!
