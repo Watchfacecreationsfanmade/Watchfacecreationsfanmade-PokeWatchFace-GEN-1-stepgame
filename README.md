@@ -36,11 +36,16 @@ Once you hit that milestone, the watch face transitions into the familiar battle
 ## Postgame
 I have also designed post-game content for after you beat the Elite Four. You will battle the Legendary Pokémon of Kanto, which will appear as small sprites on your AOD once defeated. After the Legendaries, I have added some logical, fan-made post-story content. I don't want to give everything away—you will have to go for a good walk to see it for yourself!
 
+<img width="450" height="450" alt="versie 3_20260718_11234572" src="https://github.com/user-attachments/assets/8bca50a1-ec1a-49d1-bef3-9a03efe92ca1" />
+<img width="450" height="450" alt="versie 3_20260718_11271624" src="https://github.com/user-attachments/assets/2a036085-0e59-4f28-9a95-94e2ba56f942" />
 
 
-I have put the download link for the APK file on this page. I hope you will enjoy it as much as I enjoyed making it!
-Please feel free to give feedback on this project—I would really love to hear about your experience with the watch face in general! Leave a message in the Discussions tab!
 
+
+*Pictures are screenshots from WFS. I have not walked that many steps and made a picture. Some say I may notbe worthy to catch Mewtwo ;)
+
+
+- Please feel free to give feedback on this project—I would really love to hear about your experience with the watch face in general!
 
 ## DOWNLOAD LINK:
 com.watchfacestudio.RPGwalkthrough.apk
